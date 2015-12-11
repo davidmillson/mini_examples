@@ -1,3 +1,3 @@
 # mini_examples
 Random stuff
-Little code snippets that may be worth sharing
+- Little code snippets that may be worth sharing
